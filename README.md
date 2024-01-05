@@ -1,16 +1,33 @@
-# flutter_pdf_generator
+# Flutter PDF Generator Example
 
-A new Flutter project.
+## 概要
+このプロジェクトは、Flutterを使用してウィジェットをPDFとして出力するサンプルアプリケーションです。テキストフィールドとカスタムペインターで描かれた図形を含むウィジェットをA4サイズのPDFに変換し、デバイスに保存します。
 
-## Getting Started
+## 特徴
+- FlutterでのPDF生成
+- ウィジェットの画像キャプチャ
+- カスタムペインターによる図形の描画
+- A4サイズのPDF出力
 
-This project is a starting point for a Flutter application.
+## セットアップ
+このプロジェクトをローカルで実行するには、以下の手順に従ってください。
 
-A few resources to get you started if this is your first Flutter project:
+1. リポジトリをクローンします。
+   ```
+   git clone [https://github.com/check5004/flutter_pdf_generator.git]
+   ```
+2. 必要なFlutterパッケージをインストールします。
+   ```
+   flutter pub get
+   ```
+3. アプリケーションを起動します。
+   ```
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## APKのダウンロード
+[Download](https://drive.google.com/drive/folders/1BhnU9Ci8tpCTjVewvTiahs43fouMGprl?usp=drive_link)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 使い方
+アプリを開くと、テキストフィールドとカスタム図形が表示されます。テキストフィールドに入力し、「Print Document」ボタンをクリックすると、入力されたテキストと図形が含まれたPDFが生成され、デバイスに保存されます。
