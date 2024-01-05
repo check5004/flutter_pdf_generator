@@ -28,6 +28,8 @@
 ## APKのダウンロード
 [Download](https://drive.google.com/drive/folders/1BhnU9Ci8tpCTjVewvTiahs43fouMGprl?usp=drive_link)
 
+![DownloadQRCode](https://cdn.discordapp.com/attachments/776321673552723969/1192637580689277040/qrcode.png)
+
 
 ## 使い方
 アプリを開くと、テキストフィールドとカスタム図形が表示されます。テキストフィールドに入力し、「Print Document」ボタンをクリックすると、入力されたテキストと図形が含まれたPDFが生成され、デバイスに保存されます。
